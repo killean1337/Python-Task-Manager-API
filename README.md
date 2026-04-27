@@ -44,7 +44,6 @@ g++ main.cpp Game.cpp Library.cpp -o app
 ./app
 
 Open in browser:
-
 http://127.0.0.1:8000/docs
 
 ## What I learned
