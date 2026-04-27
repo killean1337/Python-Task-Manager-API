@@ -42,3 +42,19 @@ app/
 
 g++ main.cpp Game.cpp Library.cpp -o app
 ./app
+
+Open in browser:
+
+http://127.0.0.1:8000/docs
+
+What I learned
+REST API development
+Working with databases (SQLAlchemy)
+Data validation with Pydantic
+Backend architecture basics
+
+Future improvements
+User authentication (JWT)
+Task filtering and categories
+PostgreSQL support
+Docker containerization
