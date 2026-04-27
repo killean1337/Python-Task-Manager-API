@@ -40,6 +40,5 @@ app/
 
 ## How to run
 
-```bash
-pip install -r requirements.txt
-uvicorn app.main:app --reload
+g++ main.cpp Game.cpp Library.cpp -o app
+./app
