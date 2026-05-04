@@ -1,11 +1,11 @@
-#Expense Tracker (Python)
+# Expense Tracker (Python)
 
 A console-based personal finance tracker built in Python.  
 This project helps manage income and expenses while practicing Python OOP, file handling, and data persistence.
 
 ---
 
-##Features
+## Features
 
 - Add income entries
 - Add expense entries
@@ -15,7 +15,7 @@ This project helps manage income and expenses while practicing Python OOP, file 
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 - Python
 - Object-Oriented Programming (OOP)
@@ -24,7 +24,7 @@ This project helps manage income and expenses while practicing Python OOP, file 
 
 ---
 
-##Project Structure
+## Project Structure
 
 
 main.py → CLI interface
@@ -35,7 +35,7 @@ data.json → Saved transactions
 
 ---
 
-##How to run
+## How to run
 
 ```bash
 python main.py
