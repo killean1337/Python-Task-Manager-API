@@ -39,3 +39,4 @@ data.json → Saved transactions;
 
 ```bash
 python main.py
+```
