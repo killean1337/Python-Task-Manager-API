@@ -27,10 +27,10 @@ This project helps manage income and expenses while practicing Python OOP, file 
 ## Project Structure
 
 
-main.py → CLI interface
-transaction.py → Transaction model
-tracker.py → Core business logic
-data.json → Saved transactions
+main.py → CLI interface;
+transaction.py → Transaction model;
+tracker.py → Core business logic;
+data.json → Saved transactions;
 
 
 ---
